@@ -27,7 +27,7 @@ The pages/api directory is mapped to /api/*. Files in this directory are treated
 
 ## Installation
 
-Install discord-clone with npm
+Install uber-clone with npm
 
 ```bash
   npm install 
